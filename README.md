@@ -1,6 +1,3 @@
-# SA2-Coop
-
-
 # Sonic Adventure 2 Co-op
 
 Cheat engine script for 2 player story mode in Sonic Adventure 2.
