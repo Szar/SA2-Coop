@@ -14,11 +14,11 @@ Cheat engine script for 2 player story mode in Sonic Adventure 2.
 ## Step 2: Configure
 Configure the cheat engine table just before loading a level or story mode
 * "2 Character Mode"
-** Make sure this item is checked and change it to 3D83909090909090
+  * Make sure this item is checked and change it to 3D83909090909090
 * "Splitscreen mode"
-** Check and change to 9090
+  * Check and change to 9090
 * P1 and P2 Characters
-** Check and change these to the corresponding characters you want to play as 
+  * Check and change these to the corresponding characters you want to play as 
 
 ```
 0 - Sonic
